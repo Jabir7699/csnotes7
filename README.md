@@ -1,6 +1,6 @@
 # csnotes7
 
-* [Live demo :](#jabir7699.github.io/csnotes7)
+[Live demo :](#jabir7699.github.io/csnotes7) https://Jabir7699.github.io/csnotes7
 ## Educational website
     - This website is suitable for Education Course related projects and it includes web elements which helps you to build your own site.
       This education template has everything you need to start your next upcoming education project.
